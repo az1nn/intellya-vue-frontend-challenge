@@ -24,4 +24,4 @@ npm run start
 
 ### Feito por: 
 
-- Alan Sá (az1nn)
+- Alan Sá (https://www.linkedin.com/in/alansa1/)
