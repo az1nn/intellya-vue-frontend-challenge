@@ -22,4 +22,6 @@ npm run start
 - Listagem de usuários - (http://localhost:5173/)
 - Detalhes do usuário - (http://localhost:5173/user/{id})
 
-### Feito por: Alan Sá (az1nn)
+### Feito por: 
+
+- Alan Sá (az1nn)
